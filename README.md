@@ -1,10 +1,10 @@
-# Sari Handbook | All Remote Startup
+# Fatgoat Handbook | All Remote Startup Accelerator
 
 # About Us
 
-## A Different Breed of Startup
+## A Different Breed of Startup Incubator
 
-We work anywhere in the world, in any time zone. Non-English speakers welcomed.
+We incubate, accelerate, and implement ideas that our team create internally.
 
 ## Work From Home
 
@@ -26,6 +26,15 @@ We welcome feedback.
 
 - Please make a [pull request](https://github.com/avancevl/avancevl.github.io/pull/new/master) to suggest improvements or add clarification.
 - Please create a [issue](https://github.com/avancevl/avancevl.github.io/issues/new) to ask questions.
+
+## Community
+
+Help us support the open source, startup, developer communites in Taiwan by following:
+
+- [Startup Jobs Taiwan :rocket:](https://021tw.github.io/)
+- [Full Stack Developers Taiwan :star:](https://stacktw.github.io/)
+
+<br>
 
 # How To Build
 
@@ -101,7 +110,7 @@ Edit markdown files use language tag `<a name="my"></a>` after Malaysian(my) con
     ---
     layout: default
     title: Sari Handbook
-    description: All Remote Team
+    description: For All Remote Teams
     locales:
         zh-tw:
             title: Sari手冊
