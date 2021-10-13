@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Sari Handbooks
+title: Sari Handbook
 lang: en
-description: All Remote Team
+description: All Remote Team - Everywhere
 ---
 
 ## All Remote Team
